@@ -1,6 +1,6 @@
 <h1 align="center"> Hdc-Events </h1>
 
-<p align="center">Aplicação de eventos criada para poder praticar o conhecimento adquirido da tecnologia Laravel.. <br/>
+<p align="center">Aplicação de eventos criada para poder praticar o conhecimento adquirido da tecnologia Laravel. <br/>
 </p>
 
 <p align="center">
@@ -33,4 +33,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Página criada com o intuito de criar boas práticas nos conceitos avançados de PHP e Laravel.
 
-<!-- [Visite o projeto online](https://danrodriguezdev.github.io/Jogo-Mosquito/) -->
+[Visite o projeto online](https://danrodriguezdev.github.io/HdcEvents/)
