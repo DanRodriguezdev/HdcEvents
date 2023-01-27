@@ -1,6 +1,6 @@
 <h1 align="center"> Hdc-Events </h1>
 
-<p align="center">Aplicação simples de um game de Browser criado com o intuito de testar conceitos simples de Javascript. <br/>
+<p align="center">Aplicação de eventos criada para poder praticar o conhecimento adquirido da tecnologia Laravel.. <br/>
 </p>
 
 <p align="center">
@@ -25,6 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - PHP
+- Blade
 - Laravel
 - Git e Github
 
